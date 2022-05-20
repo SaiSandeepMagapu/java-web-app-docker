@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; GMRIT</p
+		<p>&copy; GMRIT</p>
 	</footer>
 </div>
 
