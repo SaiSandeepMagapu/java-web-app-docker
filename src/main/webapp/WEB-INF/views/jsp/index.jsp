@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>GMR Institute of Technology</h2>
-			<h3>Contact: www.gmrit.org</h3>
+			<h3>Contact: www.gmrit.org</h3
 		</div>	
 	</div>
 
